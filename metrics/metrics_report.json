@@ -1,0 +1,13 @@
+{
+    "trained_metrics": {
+        "eval_loss": 0.034704651683568954,
+        "eval_accuracy": 0.9925,
+        "eval_precision": 0.9954741810737034,
+        "eval_recall": 0.9925,
+        "eval_f1": 0.9935126566416039,
+        "eval_runtime": 0.5371,
+        "eval_samples_per_second": 1489.345,
+        "eval_steps_per_second": 93.084,
+        "epoch": 3.0
+    }
+}

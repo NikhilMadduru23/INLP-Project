@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATIS Chatbot</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>ATIS Chatbot</h1>
+            <button id="clearChatBtn" title="Clear Chat"><i class="fas fa-trash-alt"></i></button>
+        </div>
+        <div class="chat-box" id="chatBox">
+            {% for message in history %}
+                <div  class="chat-message-container">
+                    <div class="chat-message {{ 'user-message' if message.startswith('User:') else 'bot-message' }}">
+                        <span class="message-text">{{ message[5:] if message.startswith('User:') or message.startswith('Bot:') else message }}</span>
+                    </div>
+                </div>
+                
+            {% endfor %}
+        </div>
+        <div class="chat-input">
+            <input type="text" id="userInput" placeholder="Type your message..." autofocus>
+            <button id="sendBtn"><i class="fas fa-paper-plane"></i></button>
+        </div>
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chatBox');
+        const userInput = document.getElementById('userInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const clearChatBtn = document.getElementById('clearChatBtn');
+
+        // Function to add a message to the chat
+        function addMessage(message, sender) {
+            const messageContainerDiv = document.createElement('div')
+            messageContainerDiv.className = `chat-message-container`;
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `chat-message ${sender}-message`;
+            messageDiv.innerHTML = `
+                <span class="message-text">${message}</span>
+            `;
+            messageContainerDiv.appendChild(messageDiv);
+            chatBox.appendChild(messageContainerDiv)
+            chatBox.scrollTop = chatBox.scrollHeight; // Auto-scroll to bottom
+        }
+
+        // Function to send a message
+        async function sendMessage() {
+            const message = userInput.value.trim();
+            if (!message) return;
+
+            // Add user message to chat
+            addMessage(message, 'user');
+            userInput.value = ''; // Clear input
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ input: message, session_id: '{{ request.remote_addr }}' })
+                });
+                const data = await response.json();
+                if (response.ok) {
+                    addMessage(data.response, 'bot');
+                } else {
+                    addMessage('Error: ' + data.response, 'bot');
+                }
+            } catch (error) {
+                addMessage('Error: ' + error.message, 'bot');
+            }
+        }
+
+        // Function to clear the chat
+        async function clearChat() {
+            try {
+                const response = await fetch('/clear', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+                const data = await response.json();
+                if (response.ok) {
+                    chatBox.innerHTML = ''; // Clear chat box
+                } else {
+                    addMessage('Error clearing chat: ' + data.response, 'bot');
+                }
+            } catch (error) {
+                addMessage('Error clearing chat: ' + error.message, 'bot');
+            }
+        }
+
+        // Event listeners
+        sendBtn.addEventListener('click', sendMessage);
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+        clearChatBtn.addEventListener('click', clearChat);
+
+        // Auto-scroll to bottom on page load
+        window.onload = () => {
+            chatBox.scrollTop = chatBox.scrollHeight;
+        };
+    </script>
+</body>
+</html>

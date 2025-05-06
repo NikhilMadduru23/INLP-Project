@@ -1,0 +1,66 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Large model files and weights
+/saved_models/
+/lora_adapters/
+/lora_output/
+/cpu_lora_adapters/
+/cpu_lora_output/
+/flask_session
+
+# Results and logs
+/results/
+/logs/
+
+*.zip
+
+# Datasets (if large, store in Google Drive)
+/data/
+
+# Google Drive-related
+*.gdoc
+*.gsheet
+*.gslides
+*.gform
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+*.env
+*.key
+secrets.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Jupyter notebooks (if any)
+*.ipynb_checkpoints/
+
+# WandB-related
+wandb/
+wandb.debug*
+run-*.wandb
+wandb-metadata.json
+wandb-summary.json

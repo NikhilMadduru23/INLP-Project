@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.chat-container {
+    width: 100%;
+    max-width: 600px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    overflow: hidden;
+}
+
+.chat-header {
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding: 15px 20px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #34495e;
+}
+
+.chat-header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+#clearChatBtn {
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+#clearChatBtn:hover {
+    color: #e74c3c;
+}
+
+.chat-box {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background-color: #f5f7fa;
+}
+
+.chat-message-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-message {
+    margin-bottom: 15px;
+    max-width: 75%;
+}
+
+.user-message {
+    align-self: flex-end;
+    background-color: #3498db;
+    color: #ffffff;
+    border-radius: 12px 12px 0 12px;
+    padding: 10px 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bot-message {
+    align-self: flex-start;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    border-radius: 12px 12px 12px 0;
+    padding: 10px 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.message-text {
+    word-wrap: break-word;
+}
+
+.chat-input {
+    display: flex;
+    padding: 15px;
+    background-color: #ffffff;
+    border-top: 1px solid #e0e0e0;
+}
+
+#userInput {
+    flex: 1;
+    padding: 10px 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+#userInput:focus {
+    border-color: #3498db;
+}
+
+#sendBtn {
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+#sendBtn:hover {
+    background-color: #2980b9;
+}
+
+#sendBtn i {
+    font-size: 1.2rem;
+}
