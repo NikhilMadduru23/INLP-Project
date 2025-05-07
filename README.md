@@ -50,12 +50,6 @@ project_root/
 Setup Instructions
 ------------------
 
-### Prerequisites
-
--   Python 3.8+
-
--   Non-GPU laptop
-
 ### Steps
 
 1.  **Clone the Repository**:

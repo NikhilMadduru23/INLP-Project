@@ -1,0 +1,801 @@
+text,intent,encoded_intent
+would like find flight charlotte las vegas makes stop louis,atis_flight,4
+april first need ticket tacoma san jose departing,atis_airfare,2
+april first need flight going phoenix san diego,atis_flight,4
+would like flight traveling one way phoenix san diego april first,atis_flight,4
+would like flight orlando salt lake city april first delta airlines,atis_flight,4
+need flight toronto newark one way leaving wednesday evening thursday morning,atis_flight,4
+monday morning would like fly columbus indianapolis,atis_flight,4
+wednesday april sixth would like fly long beach columbus pm,atis_flight,4
+pm wednesday april sixth would like fly long beach columbus,atis_flight,4
+flights long beach columbus wednesday april sixth,atis_flight,4
+find flight memphis tacoma dinner,atis_flight,4
+next wednesday flight kansas city chicago arrive chicago around pm return flight thursday,atis_flight,4
+flight american miami chicago arrive chicago pm,atis_flight,4
+find flights arriving new york city next saturday,atis_flight,4
+find nonstop flights salt lake city new york saturday april ninth,atis_flight,4
+show flights burbank milwaukee today,atis_flight,4
+show flights tomorrow evening milwaukee louis,atis_flight,4
+show flights saturday evening louis burbank,atis_flight,4
+show flights burbank louis monday,atis_flight,4
+show flights burbank milwaukee monday,atis_flight,4
+show flights tuesday evening milwaukee louis,atis_flight,4
+show flights wednesday evening louis burbank,atis_flight,4
+flights travel kansas city los angeles,atis_flight,4
+flights travel las vegas los angeles,atis_flight,4
+flights travel kansas city los angeles april ninth,atis_flight,4
+flights travel las vegas los angeles california arrive april ninth pm,atis_flight,4
+flights us air go orlando cleveland,atis_flight,4
+flights travel cleveland indianapolis april fifth,atis_flight,4
+flights travel indianapolis san diego april fifth,atis_flight,4
+flights go cleveland indianapolis april fifth,atis_flight,4
+flights travel nashville tacoma,atis_flight,4
+tacoma airport offer transportation airport downtown area,atis_ground_service,6
+flights travel tacoma san jose,atis_flight,4
+flights tacoma san jose,atis_flight,4
+flights tacoma san jose,atis_flight,4
+need flight goes boston orlando,atis_flight,4
+flights boston orlando connecting new york,atis_flight,4
+flights boston orlando connecting columbus,atis_flight,4
+flight serve dinner,atis_flight,4
+need flight charlotte miami,atis_flight,4
+need nonstop flight miami toronto,atis_flight,4
+need nonstop flight toronto louis,atis_flight,4
+need flight toronto louis,atis_flight,4
+need flight louis charlotte,atis_flight,4
+need flight united airlines la guardia san jose,atis_flight,4
+need flight tampa milwaukee,atis_flight,4
+need flight milwaukee seattle,atis_flight,4
+need flight memphis las vegas,atis_flight,4
+need flight las vegas ontario,atis_flight,4
+need flight ontario memphis,atis_flight,4
+flights go milwaukee tampa stop nashville,atis_flight,4
+flights leave newark noon next saturday arrive los angeles,atis_flight,4
+flights leave detroit arrive petersburg around,atis_flight,4
+flights northwest airline leave detroit arrive petersburg,atis_flight,4
+flights leave chicago next tuesday arrive detroit around pm,atis_flight,4
+show round trip flights chicago detroit leaving next tuesday returning day,atis_flight,4
+round trip flights leave chicago next tuesday around pm arrive detroit,atis_flight,4
+round trip flights leave chicago next tuesday arrive detroit around pm,atis_flight,4
+flights leave monday montreal arrive chicago morning,atis_flight,4
+flights leave chicago april twelfth arrive indianapolis morning,atis_flight,4
+flights leave wednesday april thirteenth indianapolis arrive montreal morning,atis_flight,4
+flights leave april twelfth indianapolis arrive montreal around pm,atis_flight,4
+like go long beach louis like stop dallas also like lunch flight,atis_flight,4
+next wednesday would like leave kansas city trip chicago arrives chicago around pm,atis_flight,4
+would like return chicago around pm kansas city,atis_flight,4
+would like leave afternoon american flight cincinnati burbank,atis_flight,4
+sunday evening would like leave montreal quebec flight san diego california,atis_flight,4
+flights sunday montreal quebec san diego california,atis_flight,4
+tuesday flights san diego california indianapolis indiana would like flight afternoon,atis_flight,4
+thursday morning would like nonstop flight indianapolis toronto,atis_flight,4
+friday morning would like fly toronto montreal,atis_flight,4
+would like early morning flight today los angeles charlotte,atis_flight,4
+wednesday night would like flight charlotte newark,atis_flight,4
+friday night would like flight newark los angeles,atis_flight,4
+find flight tampa montreal way new york,atis_flight,4
+please find flight miami florida las vegas nevada arriving pm,atis_flight,4
+please find flight las vegas michigan,atis_flight,4
+please find flight detroit michigan petersburg arriving pm,atis_flight,4
+please find flight petersburg miami thursday,atis_flight,4
+please find flight san diego toronto alaska airlines,atis_flight,4
+please find flights columbus houston layover nashville tomorrow,atis_flight,4
+please give flights nashville houston nonstop dinner served,atis_flight,4
+please find flights available kansas city newark,atis_flight,4
+please find flight goes kansas city newark orlando back kansas city,atis_flight,4
+please find flight kansas city newark,atis_flight,4
+please find flight newark orlando,atis_flight,4
+please find flight orlando kansas city,atis_flight,4
+would like fly columbus phoenix cincinnati afternoon,atis_flight,4
+airport burbank flight comes kansas city,atis_flight,4
+flights arrive burbank kansas city saturdays afternoon,atis_flight,4
+flights arrive burbank las vegas saturday april twenty third afternoon,atis_flight,4
+flights available orlando cleveland arrive around pm,atis_flight,4
+flights available indianapolis san diego april twenty first late afternoon,atis_flight,4
+flights leave cleveland going indianapolis april twenty first morning,atis_flight,4
+flights available april twenty first morning nashville tacoma,atis_flight,4
+flights available tacoma san jose morning april twenty second,atis_flight,4
+flights available san jose nashville leaving morning april twenty three,atis_flight,4
+expensive one way fare detroit westchester county,atis_airfare,2
+airlines fly detroit westchester county,atis_airline,3
+departure times detroit westchester county,atis_flight_time,5
+latest flight baltimore oakland serves dinner,atis_flight,4
+earliest flight baltimore oakland serves breakfast,atis_flight,4
+airline flies boston san diego,atis_airline,3
+latest breakfast flight dallas tampa,atis_flight,4
+show lufthansa flights seattle boston stopovers minneapolis,atis_flight,4
+show flights seattle boston stopovers minneapolis,atis_flight,4
+list philadelphia san francisco flights stopovers dallas,atis_flight,4
+show connecting flights boston denver types aircraft used,atis_flight,4
+show morning flights philadelphia fort worth,atis_flight,4
+show flights kansas city paul,atis_flight,4
+show northwest flight kansas city paul,atis_flight,4
+show flights indianapolis charlotte monday,atis_flight,4
+ground transportation charlotte airport charlotte airport downtown charlotte,atis_ground_service,6
+show flights charlotte minneapolis leave pm later monday,atis_flight,4
+show flights charlotte minneapolis tuesday morning,atis_flight,4
+show direct flights charlotte minneapolis tuesday morning,atis_flight,4
+show flight us monday charlotte minneapolis please,atis_flight,4
+show flights minneapolis indianapolis tuesday leave pm,atis_flight,4
+show flights minneapolis indiana,atis_flight,4
+show flights minneapolis indianapolis tuesday afternoon,atis_flight,4
+show flight us indianapolis charlotte monday flight us charlotte minneapolis monday flight twa minneapolis indianapolis,atis_flight,4
+show flights las vegas new york city,atis_flight,4
+different airlines go las vegas new york city,atis_airline,3
+show flights america west twa las vegas jfk friday,atis_flight,4
+flights tacoma miami leave pm tomorrow,atis_flight,4
+like fly san diego houston june tenth,atis_flight,4
+american airlines flight houston newark june tenth pm,atis_flight,4
+american airlines flight houston newark june tenth pm,atis_flight,4
+need get cincinnati denver june sixth pm,atis_flight,4
+ground transportation denver,atis_ground_service,6
+need fly denver westchester county june seventh pm,atis_flight,4
+ground transportation westchester county,atis_ground_service,6
+need take united airlines flight june eighth westchester county cincinnati pm,atis_flight,4
+united airlines flights june eighth go westchester county cincinnati,atis_flight,4
+june eighth flights go westchester county cincinnati,atis_flight,4
+us air fly cincinnati denver june sixth,atis_flight,4
+list flights cincinnati denver june sixth,atis_flight,4
+list flights denver westchester county june seventh,atis_flight,4
+list flights westchester county cincinnati june eighth,atis_flight,4
+list flights cincinnati westchester county june sixth,atis_flight,4
+list flights westchester county denver june seventh,atis_flight,4
+list flights denver cincinnati june eighth,atis_flight,4
+list flights denver cincinnati june sixth pm,atis_flight,4
+list flights cincinnati westchester county june seventh,atis_flight,4
+list flights westchester county cincinnati june seventh leaving pm,atis_flight,4
+airlines love field june sixth,atis_airline,3
+flights arrive love field june sixth,atis_flight,4
+list flights montreal philly,atis_flight,4
+list flights cleveland memphis,atis_flight,4
+list flights memphis cleveland,atis_flight,4
+list flights denver baltimore arriving july first,atis_flight,4
+list flights dallas baltimore arriving july first,atis_flight,4
+list flights pittsburgh baltimore arriving july first,atis_flight,4
+list flights canadian airlines international,atis_flight,4
+many canadian airlines international flights use,atis_quantity,7
+many canadian airlines international flights use aircraft,atis_quantity,7
+many canadian airlines flights use aircraft,atis_quantity,7
+show flights american airlines fly petersburg ontario canada stopover louis,atis_flight,4
+show flights american airlines go petersburg ontario california way louis,atis_flight,4
+show flights houston orlando,atis_flight,4
+show flights orlando houston,atis_flight,4
+show flights detroit las vegas,atis_flight,4
+show cheapest round trip coach fare las vegas detroit,atis_airfare,2
+show cheapest round trip coach fare twa las vegas detroit,atis_airfare,2
+show delta flights serve snack coach passengers,atis_flight,4
+meal code sb,atis_abbreviation,0
+show delta flights tampa san francisco,atis_flight,4
+show delta flight,atis_flight,4
+list tower air flights mondays,atis_flight,4
+list tower air flights meals,atis_flight,4
+flights depart baltimore,atis_flight,4
+flights depart baltimore arrive san francisco friday,atis_flight,4
+flights leave cincinnati morning arrive tampa,atis_flight,4
+flights depart tampa arrive cincinnati evening,atis_flight,4
+flights depart tampa early evening arrive cincinnati,atis_flight,4
+flights depart philadelphia arrive atlanta,atis_flight,4
+flights depart atlanta arrive toronto,atis_flight,4
+flights depart toronto arrive washington dc,atis_flight,4
+flights depart new york arrive los angeles,atis_flight,4
+airlines fly washington dc columbus ohio,atis_airline,3
+flights washington dc columbus ohio,atis_flight,4
+flights washington dc columbus ohio,atis_flight,4
+fares flights washington columbus,atis_airfare,2
+charlotte airport many different types aircraft us air,atis_aircraft,1
+list us air flights arriving charlotte saturday pm,atis_flight,4
+first class round trip airfare india indianapolis memphis,atis_airfare,2
+list flights memphis miami,atis_flight,4
+list flights cleveland kansas city monday,atis_flight,4
+list flights kansas city cleveland,atis_flight,4
+list flights cleveland nashville,atis_flight,4
+list flights nashville cleveland sunday,atis_flight,4
+airlines departing baltimore,atis_airline,3
+airlines fly baltimore san francisco,atis_airline,3
+flights leaving kansas city atlanta early monday morning,atis_flight,4
+flights leaving atlanta arriving louis close pm tuesday,atis_flight,4
+please list flights louis paul depart thursday morning,atis_flight,4
+list flights paul kansas city friday evening meal included,atis_flight,4
+list early morning flights cincinnati tampa,atis_flight,4
+list early evening flights tampa cincinnati,atis_flight,4
+list evening flights tampa cincinnati,atis_flight,4
+list flights philadelphia atlanta friday,atis_flight,4
+list flights atlanta toronto friday afternoon,atis_flight,4
+list flights toronto washington dc saturday,atis_flight,4
+list flights washington dc philadelphia saturday pm,atis_flight,4
+list direct flights new york city los angeles,atis_flight,4
+fare code,atis_abbreviation,0
+list american airlines flights houston milwaukee departing friday pm,atis_flight,4
+list flights houston milwaukee friday pm,atis_flight,4
+list american airlines flights milwaukee san jose wednesday,atis_flight,4
+list american airlines flights san jose dallas friday afternoon,atis_flight,4
+list flights dallas houston arriving sunday afternoon,atis_flight,4
+list airlines flying seattle salt lake city,atis_airline,3
+list flights seattle salt lake city delta,atis_flight,4
+list flights seattle salt lake city delta,atis_flight,4
+list flights boston pittsburgh daily,atis_flight,4
+list flights pittsburgh newark daily,atis_flight,4
+list flights newark boston daily,atis_flight,4
+list us air flights leaving saturday charlotte airport pm,atis_flight,4
+list us air flights leaving saturday charlotte airport around pm,atis_flight,4
+list first class airfare round trip indianapolis memphis,atis_airfare,2
+fare code f,atis_abbreviation,0
+list flights memphis miami wednesday evening,atis_flight,4
+list flights miami indianapolis sunday,atis_flight,4
+list flights ontario california orlando florida,atis_flight,4
+list flights ontario california salt lake city utah,atis_flight,4
+list flights ontario california salt lake city utah monday,atis_flight,4
+list flights salt lake city utah phoenix arizona monday,atis_flight,4
+list flights salt lake city phoenix arizona tuesday,atis_flight,4
+list flights phoenix arizona ontario california wednesday,atis_flight,4
+airlines fly baltimore san francisco,atis_airline,3
+fare first class round trip ticket detroit petersburg,atis_airfare,2
+airfare round trip first class ticket detroit petersburg,atis_airfare,2
+kansas city atlanta monday morning flights,atis_flight,4
+monday morning flights atlanta kansas city,atis_flight,4
+kansas city atlanta monday morning flights,atis_flight,4
+atlanta louis tuesday pm flights,atis_flight,4
+louis paul thursday,atis_flight,4
+paul kansas city friday night,atis_flight,4
+cleveland kansas city arrive monday pm,atis_flight,4
+kansas city cleveland flight arrive wednesday pm,atis_flight,4
+cleveland nashville flight friday morning,atis_flight,4
+nashville cleveland sunday,atis_flight,4
+first class flights pittsburgh newark monday morning,atis_flight,4
+flights newark los angeles wednesday morning,atis_flight,4
+los angeles minneapolis thursday afternoon,atis_flight,4
+minneapolis pittsburgh flight,atis_flight,4
+minneapolis pittsburgh first class flight,atis_flight,4
+would like flights leaving milwaukee orlando,atis_flight,4
+hp stand,atis_abbreviation,0
+would like flights ontario tacoma,atis_flight,4
+would like flights minneapolis san diego,atis_flight,4
+would like flights salt lake city cincinnati,atis_flight,4
+would like see flights cincinnati salt lake city,atis_flight,4
+like flights new york miami,atis_flight,4
+would like flights miami new york,atis_flight,4
+would like flight leaving san francisco san diego,atis_flight,4
+would like flights san diego las vegas,atis_flight,4
+would like flight san diego las vegas,atis_flight,4
+would like flights las vegas san francisco,atis_flight,4
+fare code bn mean,atis_abbreviation,0
+would like airline flies toronto detroit louis,atis_airline,3
+would like flight toronto detroit,atis_flight,4
+would like flight detroit louis,atis_flight,4
+would like flight toronto louis,atis_flight,4
+would like flights san francisco long beach,atis_flight,4
+would like flights leaving san francisco san diego,atis_flight,4
+would like flight san francisco petersburg,atis_flight,4
+show one way flight milwaukee orlando leaving wednesday afternoon pm,atis_flight,4
+show one way flights milwaukee orlando wednesday,atis_flight,4
+show flights columbus chicago first class leave,atis_flight,4
+show cheapest round trip petersburg detroit arrives pm,atis_flight,4
+show nonstop flights kansas city phoenix,atis_flight,4
+airline wn,atis_airline,3
+show cheapest first class round trip new york miami,atis_flight,4
+show round trips new york miami,atis_flight,4
+show cheapest one way flight san francisco houston,atis_flight,4
+show cheapest one way flight houston boston,atis_flight,4
+show cheapest round trip fares houston boston,atis_airfare,2
+show cheapest round trip fares san francisco houston,atis_airfare,2
+show cheapest round trip fare san francisco houston february twenty eighth,atis_airfare,2
+show cheapest one way fare san francisco houston february twenty eighth,atis_airfare,2
+show ground transportation houston monday afternoon,atis_ground_service,6
+show one way flights houston boston,atis_flight,4
+show ground transportation could get boston late night,atis_ground_service,6
+show airlines flights toronto detroit detroit louis louis toronto,atis_airline,3
+show round trip fares toronto detroit delta northwest us air united airlines,atis_airfare,2
+show flights detroit louis delta northwest us air united airlines,atis_flight,4
+show flights montreal orlando long beach,atis_flight,4
+show flights montreal orlando,atis_flight,4
+need flight friday afternoon june new york cleveland,atis_flight,4
+need flight new york los angeles saturday evening us air,atis_flight,4
+like red eye flight new york los angeles saturday evening us air,atis_flight,4
+like flight new york los angeles saturday morning us air,atis_flight,4
+need flight san francisco milwaukee monday morning,atis_flight,4
+ua mean,atis_abbreviation,0
+need flight milwaukee washington dc monday night,atis_flight,4
+flights milwaukee washington dc tuesday mornings,atis_flight,4
+need rent car washington dc,atis_ground_service,6
+get flight tuesday night washington dc oakland,atis_flight,4
+dc oakland wednesday morning,atis_flight,4
+much cost fly twa columbus milwaukee,atis_airfare,2
+q mean,atis_abbreviation,0
+much cost fly columbus louis round trip twa,atis_airfare,2
+cheapest flight columbus louis round trip twa,atis_flight,4
+cheapest round trip flight twa columbus paul,atis_flight,4
+want fly milwaukee los angeles,atis_flight,4
+get shortest flight milwaukee orlando,atis_flight,4
+shortest flight milwaukee long beach,atis_flight,4
+mean,atis_abbreviation,0
+ap mean,atis_abbreviation,0
+shortest flight milwaukee petersburg,atis_flight,4
+shortest flight milwaukee long beach,atis_flight,4
+shortest flight milwaukee san diego,atis_flight,4
+ap mean,atis_abbreviation,0
+get flight today san francisco detroit michigan,atis_flight,4
+cheapest flight san francisco detroit today,atis_flight,4
+want fly san francisco milwaukee milwaukee denver,atis_flight,4
+cheapest flight san francisco milwaukee,atis_flight,4
+need rent car milwaukee,atis_ground_service,6
+cheapest flight tomorrow milwaukee denver,atis_flight,4
+ground transportation available denver,atis_ground_service,6
+cheapest flight san francisco denver,atis_flight,4
+flights leave cleveland go dallas,atis_flight,4
+show nonstop flights petersburg charlotte,atis_flight,4
+airline us,atis_airline,3
+show flights toronto san diego,atis_flight,4
+phl,atis_abbreviation,0
+mci,atis_abbreviation,0
+show flights oakland salt lake city,atis_flight,4
+sa mean,atis_abbreviation,0
+earliest daily flight oakland salt lake city,atis_flight,4
+airline dl,atis_airline,3
+latest daily flight oakland salt lake city,atis_flight,4
+show flights los angeles dallas,atis_flight,4
+ground transportation available dallas fort worth airport downtown dallas,atis_ground_service,6
+flights dallas phoenix,atis_flight,4
+ground transportation available phoenix airport downtown phoenix,atis_ground_service,6
+flights dallas phoenix using aircraft,atis_flight,4
+airline aa,atis_airline,3
+show flights milwaukee indiana,atis_flight,4
+flights milwaukee pittsburgh,atis_flight,4
+ground transportation available pittsburgh airport downtown pittsburgh,atis_ground_service,6
+show flights pittsburgh washington dc,atis_flight,4
+ground transportation available dca downtown washington,atis_ground_service,6
+flights dca milwaukee,atis_flight,4
+ground transportation available milwaukee airport downtown milwaukee,atis_ground_service,6
+determine type aircraft used flight cleveland dallas leaves noon,atis_aircraft,1
+find flight petersburg charlotte flight leave afternoon arrive soon pm possible nonstop flight,atis_flight,4
+list flight delta airlines toronto san diego,atis_flight,4
+list flight american airlines toronto san diego,atis_flight,4
+list flight toronto san diego,atis_flight,4
+list flights oakland salt lake city leaving wednesday,atis_flight,4
+list flights oakland salt lake city leaving midnight thursday,atis_flight,4
+list flights phoenix las vegas,atis_flight,4
+list flights las vegas denver,atis_flight,4
+list flights milwaukee washington dc,atis_flight,4
+list flights washington dc pittsburgh leaving,atis_flight,4
+list flights washington dc pittsburgh,atis_flight,4
+list flights pittsburgh milwaukee,atis_flight,4
+like flight san diego washington dc,atis_flight,4
+like fly cleveland dallas,atis_flight,4
+want fly washington dc phoenix arizona,atis_flight,4
+need flight phoenix atlanta,atis_flight,4
+would like fly atlanta san diego,atis_flight,4
+would like fly san diego seattle,atis_flight,4
+would like fly orlando kansas city,atis_flight,4
+need flight kansas city minneapolis,atis_flight,4
+need flight san diego washington dc,atis_flight,4
+need flight washington dc san diego,atis_flight,4
+lowest fare flight washington dc boston,atis_airfare,2
+lowest fare washington dc montreal,atis_airfare,2
+lowest fare toronto washington dc,atis_airfare,2
+want flight montreal washington dc,atis_flight,4
+want flight nashville seattle arrives later pm,atis_flight,4
+want flight memphis seattle arrives later pm,atis_flight,4
+need flight indianapolis seattle arriving seattle pm,atis_flight,4
+want flight round trip memphis seattle,atis_flight,4
+want fly nashville seattle want cheapest fare round trip,atis_flight,4
+want fly memphis seattle round trip cheapest fare,atis_flight,4
+want fly indianapolis seattle round trip cheapest fare,atis_flight,4
+please list flights orlando philadelphia,atis_flight,4
+please list flights san francisco charlotte,atis_flight,4
+please list flights milwaukee philadelphia,atis_flight,4
+please list flights philadelphia san francisco,atis_flight,4
+please show ground transportation milwaukee,atis_ground_service,6
+please list flights san francisco milwaukee,atis_flight,4
+list flights houston denver,atis_flight,4
+list flights houston phoenix,atis_flight,4
+list flights phoenix houston,atis_flight,4
+list flights newark houston,atis_flight,4
+show flights denver houston,atis_flight,4
+show flights petersburg charlotte,atis_flight,4
+show flights orlando kansas city,atis_flight,4
+show flights kansas city minneapolis,atis_flight,4
+show flights kansas city orlando,atis_flight,4
+show flights minneapolis kansas city,atis_flight,4
+show flights kansas city orlando,atis_flight,4
+list flights washington dc boston,atis_flight,4
+list fares washington dc montreal,atis_airfare,2
+list flights washington dc montreal,atis_flight,4
+list fares washington dc toronto good,atis_airfare,2
+list fares washington dc boston,atis_airfare,2
+list flights washington dc montreal,atis_flight,4
+list flights washington dc toronto,atis_flight,4
+list flights toronto washington dc,atis_flight,4
+list flights oakland salt lake city,atis_flight,4
+flights go dallas phoenix,atis_flight,4
+flights go phoenix salt lake city,atis_flight,4
+need early flight milwaukee denver,atis_flight,4
+types ground transportation available denver,atis_ground_service,6
+flights go denver louis tuesday morning,atis_flight,4
+ground transportation available louis,atis_ground_service,6
+need fly louis milwaukee wednesday afternoon,atis_flight,4
+flights washington seattle,atis_flight,4
+flights atlanta seattle,atis_flight,4
+flights san diego seattle,atis_flight,4
+would like flight information phoenix denver,atis_flight,4
+could flight information flights salt lake city phoenix please,atis_flight,4
+could flight information flights pittsburgh phoenix please,atis_flight,4
+would like information flights leaving washington dc denver,atis_flight,4
+need information flights washington boston leave saturday,atis_flight,4
+need flights washington montreal saturday,atis_flight,4
+need fares flights washington toronto saturday,atis_airfare,2
+want go boston washington saturday,atis_flight,4
+need flight cleveland dallas leaves noon see much information,atis_flight,4
+get fares washington boston,atis_airfare,2
+get saturday fares washington boston,atis_airfare,2
+get fares washington montreal,atis_airfare,2
+get saturday fares washington montreal,atis_airfare,2
+get saturday fares washington toronto,atis_airfare,2
+get saturday fare washington toronto,atis_airfare,2
+list saturday flights washington boston,atis_flight,4
+list saturday flights boston washington,atis_flight,4
+get flights milwaukee dtw,atis_flight,4
+list flights milwaukee detroit,atis_flight,4
+get flights detroit toronto,atis_flight,4
+get flights toronto milwaukee,atis_flight,4
+get last flight oakland salt lake city wednesday first flight oakland salt lake city thursday,atis_flight,4
+get first flight oakland salt lake city thursday,atis_flight,4
+get last flight oakland salt lake city wednesday,atis_flight,4
+list last wednesday flight oakland salt lake city,atis_flight,4
+get flight toronto san diego stopping dtw,atis_flight,4
+get flights petersburg charlotte,atis_flight,4
+need flight milwaukee indianapolis leaving monday,atis_flight,4
+need flight departing milwaukee indianapolis leaving monday,atis_flight,4
+ground transportation available indianapolis airport,atis_ground_service,6
+need flight information flight departing indianapolis cleveland departing tuesday noon,atis_flight,4
+need flight information flight departing cleveland milwaukee wednesday pm,atis_flight,4
+need flight information flights departing cleveland going back milwaukee wednesday pm,atis_flight,4
+need flight information flights departing cleveland milwaukee wednesday pm,atis_flight,4
+need flight information flights departing cleveland milwaukee wednesday pm,atis_flight,4
+need flight denver salt lake city monday,atis_flight,4
+ground transportation available denver airport,atis_ground_service,6
+ground transportation available salt lake city airport,atis_ground_service,6
+need flight salt lake city phoenix departing wednesday pm,atis_flight,4
+ground transportation available phoenix airport,atis_ground_service,6
+need flight oakland salt lake city wednesday departing pm,atis_flight,4
+list flights las vegas phoenix,atis_flight,4
+list wednesday night flights oakland salt lake city,atis_flight,4
+list flights oakland salt lake city thursday morning,atis_flight,4
+airlines fly toronto san diego,atis_airline,3
+please list afternoon flights petersburg charlotte,atis_flight,4
+tpa,atis_abbreviation,0
+flights cleveland dallas,atis_flight,4
+please list flights cleveland dallas leave noon,atis_flight,4
+type aircraft flying cleveland dallas noon,atis_aircraft,1
+need information flights indianapolis seattle,atis_flight,4
+need flight memphis seattle,atis_flight,4
+need ticket nashville seattle,atis_airfare,2
+need ticket nashville tennessee seattle,atis_airfare,2
+need flight information milwaukee tampa,atis_flight,4
+need rent car tampa,atis_ground_service,6
+need daily flight louis milwaukee,atis_flight,4
+need flights departing oakland arriving salt lake city,atis_flight,4
+need information flights toronto san diego,atis_flight,4
+need information flights toronto san diego,atis_flight,4
+want flight toronto san diego,atis_flight,4
+need information flights petersburg charlotte,atis_flight,4
+flights go new york miami back,atis_flight,4
+fare code qo mean,atis_abbreviation,0
+show flights milwaukee orlando one way,atis_flight,4
+abbreviation us stand,atis_abbreviation,0
+like one way ticket milwaukee orlando either wednesday evening thursday morning,atis_airfare,2
+show flights milwaukee orlando,atis_flight,4
+fare code f mean,atis_abbreviation,0
+fare code h mean,atis_abbreviation,0
+fare code mean,atis_abbreviation,0
+restrictions ap,atis_abbreviation,0
+please show first class flights indianapolis memphis one way leaving,atis_flight,4
+show round trip flights burbank seattle arrive pm seattle,atis_flight,4
+round trip flights orlando montreal please,atis_flight,4
+airline dl,atis_airline,3
+show delta airlines flights montreal orlando,atis_flight,4
+show flights orlando montreal please,atis_flight,4
+airline kw,atis_airline,3
+please list flights new york miami type class,atis_flight,4
+fare code bh mean,atis_abbreviation,0
+show return flight miami jfk please,atis_flight,4
+fare code bh mean,atis_abbreviation,0
+fare code bh mean,atis_abbreviation,0
+fare code bh mean,atis_abbreviation,0
+fare code bh mean,atis_abbreviation,0
+show one way flights milwaukee orlando pm wednesday,atis_flight,4
+show flights indianapolis memphis,atis_flight,4
+show round trip flights burbank seattle,atis_flight,4
+show round trip flights orlando montreal,atis_flight,4
+show nonstop flights montreal orlando,atis_flight,4
+show round trips montreal orlando,atis_flight,4
+show round trip flights montreal orlando,atis_flight,4
+show cheapest one way flights montreal orlando,atis_flight,4
+show cheapest one way flights orlando montreal,atis_flight,4
+show cheapest economy flights miami new york,atis_flight,4
+kansas city las vegas economy,atis_flight,4
+kansas city las vegas economy,atis_flight,4
+airline hp,atis_airline,3
+ground transportation las vegas,atis_ground_service,6
+ground transportation las vegas,atis_ground_service,6
+las vegas baltimore economy,atis_flight,4
+las vegas baltimore economy,atis_flight,4
+baltimore kansas city economy,atis_flight,4
+airline us,atis_airline,3
+airline us,atis_airline,3
+airline us,atis_airline,3
+airline us,atis_airline,3
+airline us,atis_airline,3
+columbus chicago one way,atis_flight,4
+airline hp,atis_airline,3
+petersburg detroit,atis_flight,4
+milwaukee orlando one way pm wednesday,atis_flight,4
+milwaukee atlanta daily,atis_flight,4
+airline yx,atis_airline,3
+show flights san jose phoenix,atis_flight,4
+show flights san jose phoenix,atis_flight,4
+airline hp,atis_airline,3
+show ground transportation phoenix,atis_ground_service,6
+show flights phoenix fort worth,atis_flight,4
+show ground transportation fort worth,atis_ground_service,6
+show flights fort worth san jose,atis_flight,4
+show first class flights new york miami round trip,atis_flight,4
+show first class flights new york miami round trip,atis_flight,4
+show round trip flights new york miami nonstop,atis_flight,4
+show round trip flights miami new york nonstop,atis_flight,4
+show one way flights indianapolis memphis day,atis_flight,4
+fare code f mean,atis_abbreviation,0
+show round trip flights burbank tacoma,atis_flight,4
+restriction mean,atis_abbreviation,0
+fare code h mean,atis_abbreviation,0
+airline,atis_airline,3
+airline,atis_airline,3
+airline,atis_airline,3
+airline sam,atis_airline,3
+show nonstop flights petersburg toronto,atis_flight,4
+show nonstop flights toronto petersburg,atis_flight,4
+show nonstop flights toronto petersburg,atis_flight,4
+show weekday flights milwaukee orlando one way,atis_flight,4
+show weekday flights milwaukee orlando one way,atis_flight,4
+airline hp,atis_airline,3
+list flights chicago san diego,atis_flight,4
+list flights chicago san diego,atis_flight,4
+list flights kansas city denver,atis_flight,4
+list flights denver phoenix,atis_flight,4
+list flights phoenix las vegas,atis_flight,4
+list flights las vegas san diego,atis_flight,4
+list flights chicago kansas city morning,atis_flight,4
+list flights houston san jose,atis_flight,4
+list flights houston milwaukee,atis_flight,4
+list flights milwaukee san jose wednesday,atis_flight,4
+list flights san jose dallas friday,atis_flight,4
+list flights dallas houston,atis_flight,4
+list flights new york la,atis_flight,4
+list flights la guardia burbank,atis_flight,4
+list flights la orlando,atis_flight,4
+list flights ontario california orlando,atis_flight,4
+list flights ontario california orlando,atis_flight,4
+list flights indianapolis memphis fares monday,atis_flight,4
+list flights indianapolis memphis monday,atis_flight,4
+list flights memphis miami wednesday,atis_flight,4
+list flights miami indianapolis sunday,atis_flight,4
+list flights charlotte saturday afternoon,atis_flight,4
+list type aircraft flights charlotte,atis_aircraft,1
+class fare code q,atis_abbreviation,0
+list flights orlando tacoma saturday fare basis code q,atis_flight,4
+list airfares first class round trip detroit petersburg,atis_airfare,2
+list coach round trip airfare detroit petersburg,atis_airfare,2
+list flights pittsburgh newark monday morning,atis_flight,4
+list flights minneapolis pittsburgh friday,atis_flight,4
+list flights cincinnati tampa,atis_flight,4
+list flights cincinnati tampa noon,atis_flight,4
+list flights tampa cincinnati pm,atis_flight,4
+list airlines fly seattle salt lake city,atis_airline,3
+list delta flights seattle salt lake city,atis_flight,4
+list delta flights seattle salt lake city aircraft type,atis_flight,4
+ground transportation baltimore,atis_ground_service,6
+list ground transportation baltimore,atis_ground_service,6
+list flights baltimore san francisco friday,atis_flight,4
+give flights los angeles pittsburgh tuesday,atis_flight,4
+give flights pittsburgh los angeles thursday evening,atis_flight,4
+give round trip flights cleveland miami next wednesday,atis_flight,4
+give fares round trip flights cleveland miami next wednesday,atis_airfare,2
+give flights fares trip cleveland miami wednesday,atis_flight,4
+give fares miami cleveland next sunday,atis_airfare,2
+give flights milwaukee phoenix saturday sunday american airlines,atis_flight,4
+give flights phoenix milwaukee wednesday evening,atis_flight,4
+give flights phoenix milwaukee wednesday american airlines,atis_flight,4
+give flights phoenix milwaukee american airlines,atis_flight,4
+give flights phoenix milwaukee,atis_flight,4
+give meal flights departing early saturday morning chicago seattle nonstop,atis_flight,4
+give flights chicago seattle saturday morning meals,atis_flight,4
+give flights seattle chicago meals continental,atis_flight,4
+give flights seattle chicago meals continental saturday morning,atis_flight,4
+give flights chicago seattle continental meals early saturday morning,atis_flight,4
+give combination continental flights chicago seattle meals early saturday morning,atis_flight,4
+give saturday morning flights meals chicago minneapolis,atis_flight,4
+give saturday morning flights continental meals chicago minneapolis,atis_flight,4
+give saturday morning flights chicago paul continental meals,atis_flight,4
+give flights new york las vegas nonstop,atis_flight,4
+give flights memphis las vegas nonstop,atis_flight,4
+give cheapest round trip flights indianapolis orlando around december twenty fifth,atis_flight,4
+need friday flight newark tampa,atis_flight,4
+need sunday flight tampa charlotte,atis_flight,4
+give flight charlotte baltimore tuesday morning,atis_flight,4
+morning flight baltimore newark please,atis_flight,4
+cheapest round trip fare indianapolis orlando december twenty fifth,atis_airfare,2
+cheapest one way fare indianapolis orlando december twenty seventh,atis_airfare,2
+saturday flight american airlines milwaukee phoenix,atis_flight,4
+fare pittsburgh cleveland dollars,atis_airfare,2
+much coach flight pittsburgh atlanta,atis_airfare,2
+newark tampa friday,atis_flight,4
+tampa charlotte sunday morning,atis_flight,4
+charlotte baltimore tuesday,atis_flight,4
+baltimore newark wednesday morning,atis_flight,4
+dallas houston,atis_flight,4
+houston dallas midnight,atis_flight,4
+indianapolis orlando december twenty seventh,atis_flight,4
+cheapest fare indianapolis orlando twenty seventh december,atis_airfare,2
+cheapest fare round trip indianapolis orlando december twenty seventh,atis_airfare,2
+cleveland miami wednesday arriving pm,atis_flight,4
+miami cleveland sunday afternoon,atis_flight,4
+new york city las vegas memphis las vegas sunday,atis_flight,4
+new york city las vegas memphis las vegas sunday,atis_flight,4
+new york las vegas sunday afternoon,atis_flight,4
+memphis las vegas sunday afternoon,atis_flight,4
+new york las vegas sunday afternoon,atis_flight,4
+chicago seattle saturday morning,atis_flight,4
+chicago las vegas saturday morning,atis_flight,4
+los angeles pittsburgh afternoon tuesday,atis_flight,4
+los angeles pittsburgh afternoon monday,atis_flight,4
+pittsburgh los angeles thursday evening,atis_flight,4
+milwaukee phoenix saturday,atis_flight,4
+phoenix milwaukee sunday,atis_flight,4
+phoenix milwaukee wednesday,atis_flight,4
+flight baltimore san francisco arriving pm,atis_flight,4
+many northwest flights leave paul,atis_flight,4
+many northwest flights leave washington dc,atis_flight,4
+many flights northwest leaving dulles,atis_flight,4
+would like connecting flight dallas san francisco leaving,atis_flight,4
+please list flights dallas san francisco,atis_flight,4
+tell morning flights american airlines philadelphia dallas,atis_flight,4
+tell flights leave philadelphia go dallas,atis_flight,4
+,atis_abbreviation,0
+type plane,atis_aircraft,1
+,atis_abbreviation,0
+show first class coach flights jfk orlando,atis_flight,4
+show first class coach flights kennedy airport miami,atis_flight,4
+show first class coach flights jfk miami,atis_flight,4
+show delta airlines flights jfk miami,atis_flight,4
+show delta airlines boston salt lake,atis_flight,4
+show delta airlines flights boston salt lake,atis_flight,4
+show delta airlines flights boston salt lake city,atis_flight,4
+fares flights boston washington dc,atis_airfare,2
+least expensive fare boston salt lake city,atis_airfare,2
+lowest fares washington dc salt lake city,atis_airfare,2
+lowest fare bwi salt lake city,atis_airfare,2
+show cost first class ticket detroit las vegas back,atis_airfare,2
+earliest arriving flight boston washington dc,atis_flight,4
+earliest arriving flight boston washington dc,atis_flight,4
+earliest arriving flight boston washington dc,atis_flight,4
+earliest arriving flight houston orlando,atis_flight,4
+earliest arriving flight houston orlando,atis_flight,4
+show flights houston orlando,atis_flight,4
+show flights houston orlando,atis_flight,4
+show flights houston orlando,atis_flight,4
+list flights leaving denver pm pm,atis_flight,4
+airlines serve denver,atis_airline,3
+list airlines flights denver,atis_airline,3
+airlines fly denver,atis_airline,3
+list flights arriving denver pm,atis_flight,4
+,atis_abbreviation,0
+list daily flights arriving denver pm,atis_flight,4
+list daily flights arriving denver pm,atis_flight,4
+show daily flights arriving denver pm pm,atis_flight,4
+tell aircraft,atis_aircraft,1
+tell aircraft,atis_aircraft,1
+tell type aircraft called,atis_aircraft,1
+list flights arriving leaving denver pm,atis_flight,4
+list flights arriving denver pm,atis_flight,4
+list flights types aircraft arriving denver pm,atis_flight,4
+please list flights nashville memphis monday morning,atis_flight,4
+please list flights nashville memphis monday morning,atis_flight,4
+ground transportation memphis airport town arrive morning,atis_ground_service,6
+please list flights memphis new york city monday night,atis_flight,4
+cvg,atis_abbreviation,0
+ground transportation available la guardia airport new york city,atis_ground_service,6
+ground transportation lga new york city,atis_ground_service,6
+please list ground transportation lga new york city,atis_ground_service,6
+please list ground transportation ewr new york city,atis_ground_service,6
+show morning flights memphis new york city,atis_flight,4
+give flights new york city nashville leaving pm wednesday,atis_flight,4
+tell ground transportation nashville airport,atis_ground_service,6
+nonstop flights cincinnati charlotte leaving noon arriving pm,atis_flight,4
+many flights alaska airlines burbank,atis_flight,4
+list alaska airline flights burbank anywhere,atis_flight,4
+list alaska airline flights burbank,atis_flight,4
+airline,atis_airline,3
+list alaska airlines flights arriving burbank,atis_flight,4
+list alaska airlines flights departing burbank,atis_flight,4
+list alaska airlines flights,atis_flight,4
+list flights departing seattle,atis_flight,4
+list flights indianapolis memphis leave noon,atis_flight,4
+list cheapest fare charlotte las vegas,atis_airfare,2
+want flight los angeles charlotte early morning,atis_flight,4
+would like morning flight charlotte newark,atis_flight,4
+like morning flight newark los angeles,atis_flight,4
+like evening flight newark los angeles,atis_flight,4
+would like flight leaves sunday montreal quebec san diego california,atis_flight,4
+would like flight tuesday leaves san diego indianapolis indiana leaves afternoon,atis_flight,4
+would like leave thursday morning indianapolis toronto,atis_flight,4
+would like flight friday morning toronto montreal,atis_flight,4
+would like flight cincinnati burbank american,atis_flight,4
+type aircraft used american flight leaving pm,atis_aircraft,1
+need flight leaving kansas city chicago leaving next wednesday returning following day,atis_flight,4
+flights go long beach louis,atis_flight,4
+flights memphis las vegas,atis_flight,4
+flights las vegas ontario,atis_flight,4
+flights ontario memphis,atis_flight,4
+type ground transportation las vegas airport,atis_ground_service,6
+taxi service ontario airport,atis_ground_service,6
+flights tampa milwaukee,atis_flight,4
+flights milwaukee seattle,atis_flight,4
+flights la guardia san jose united,atis_flight,4
+flights mondays travel charlotte north carolina phoenix arizona,atis_flight,4
+flights phoenix arizona paul minnesota tuesday,atis_flight,4
+flights thursday leaving paul minnesota louis,atis_flight,4
+flights louis charlotte north carolina leaving friday,atis_flight,4
+flights boston orlando stop new york,atis_flight,4
+need morning flight burbank milwaukee next monday,atis_flight,4
+flight milwaukee louis leaves monday night,atis_flight,4
+flight louis burbank leaves tuesday afternoon,atis_flight,4
+flight leaving tuesday night louis burbank,atis_flight,4
+need flight salt lake newark airport arrives saturday pm,atis_flight,4
+like flight cincinnati newark airport arrives saturday pm,atis_flight,4
+need flight american airlines miami chicago arrives around pm,atis_flight,4
+need flight memphis tacoma goes los angeles,atis_flight,4
+flights cincinnati san jose california leave pm,atis_flight,4
+nonstop flights san jose houston texas,atis_flight,4
+nonstop flights houston memphis,atis_flight,4
+flights memphis cincinnati wednesday,atis_flight,4
+american flights newark nashville,atis_flight,4
+flights ontario westchester stop chicago,atis_flight,4
+please list flights los angeles charlotte,atis_flight,4
+please list flights charlotte newark,atis_flight,4
+please list flights newark los angeles,atis_flight,4
+please list flights cincinnati burbank american airlines,atis_flight,4
+please give flights kansas city chicago june sixteenth,atis_flight,4
+please give flights chicago kansas city june seventeenth,atis_flight,4
+please list flights kansas city chicago june sixteenth,atis_flight,4
+please list flights chicago kansas city june seventeenth,atis_flight,4
+like travel burbank milwaukee,atis_flight,4
+find flight salt lake city new york city next saturday arriving pm,atis_flight,4
+find another flight cincinnati new york saturday pm,atis_flight,4
+list delta flights salt lake city new york next saturday arriving pm,atis_flight,4
+like fly miami chicago american airlines arriving around pm,atis_flight,4
+like travel kansas city chicago next wednesday,atis_flight,4
+like round trip flight kansas city chicago wednesday may twenty sixth arriving pm,atis_flight,4
+yes like find flight memphis tacoma stopping los angeles,atis_flight,4
+find flight san diego phoenix monday,atis_flight,4
+find flight phoenix detroit monday,atis_flight,4
+find flight detroit san diego tuesday,atis_flight,4
+find flight cincinnati san jose monday,atis_flight,4
+find flight san jose houston wednesday,atis_flight,4
+find flight houston memphis friday,atis_flight,4
+find flight memphis cincinnati sunday,atis_flight,4
+find american flight newark nashville around pm,atis_flight,4
+please find flight round trip los angeles tacoma washington stopover san francisco exceeding price dollars june tenth,atis_flight,4
+flights june tenth burbank tacoma,atis_flight,4
+please find flight ontario westchester makes stop chicago may seventeenth one way dinner,atis_flight,4
+like book flight burbank milwaukee,atis_flight,4
+show flights burbank milwaukee,atis_flight,4
+find flights milwaukee louis,atis_flight,4
+show flights louis burbank,atis_flight,4
+one airline flies burbank milwaukee milwaukee louis louis burbank,atis_airline,3
+find round trip flights burbank milwaukee stopping louis,atis_flight,4
+like book two flights westchester county,atis_flight,4
+want book flight salt lake city westchester county,atis_flight,4
+like book flight cincinnati new york city united airlines next saturday,atis_flight,4
+please find flights cincinnati airport new york city area arrive next saturday pm,atis_flight,4
+find flight cincinnati airport new york city area,atis_flight,4
+like fly miami chicago american airlines,atis_flight,4
+would like book round trip flight kansas city chicago,atis_flight,4
+find flight flies memphis tacoma,atis_flight,4

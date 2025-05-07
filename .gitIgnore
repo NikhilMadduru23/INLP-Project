@@ -24,8 +24,6 @@ venv.bak/
 
 *.zip
 
-# Datasets (if large, store in Google Drive)
-/data/
 
 # Google Drive-related
 *.gdoc
